@@ -191,10 +191,6 @@ hr{
     padding-right: 15%;
 }
 
-.jnj, .ge, .jahnel, .microsoft, .unisys, .zones, .naval{
-    display: inline-block;
-}
-
 #jnjImg, #geImg, #jahnelImg, #unisysImg, #microsoftImg, #navalImg, #zonesImg{
     display: none;
     position: absolute;
